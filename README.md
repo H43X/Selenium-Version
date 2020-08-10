@@ -2,6 +2,8 @@
 
 **This is the source code for the fireliker tool automation.**
 
+**Nyumat: I tried to keep this documentation as non-programmer legible as possible for some of you that aren't fluent coders yet.
+
 What this code does is takes your Tik Tok username and goes onto a Web App which can give you up to 1000 views per 5 minutes.
 
 >Don't worry, we're working on better and faster ways to get views. 
@@ -10,7 +12,7 @@ While yes, this isn't the infamous share bot that once was, it is key into makin
 
 ### To run the code..
 
-**You will need Python 3.7 or higher to run this**
+**Keep in Mind! You will need Python 3.7 or higher to complie this.**
 
 First think you need to do is setup a virtual enviornment.
 ```
