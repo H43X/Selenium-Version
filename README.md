@@ -2,7 +2,7 @@
 
 **This is the source code for the fireliker tool automation.**
 
-**Nyumat: I tried to keep this documentation as non-programmer legible as possible for some of you that aren't fluent coders yet.
+**Nyumat: I tried to keep this documentation as non-programmer legible as possible for some of you that aren't fluent coders yet.**
 
 What this code does is takes your Tik Tok username and goes onto a Web App which can give you up to 1000 views per 5 minutes.
 
