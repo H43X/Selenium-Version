@@ -12,9 +12,9 @@ While yes, this isn't the infamous share bot that once was, it is key into makin
 
 ### To run the code..
 
-**Keep in Mind! You will need Python 3.7 or higher to complie this.**
+**Keep in Mind! You will need Python 3.7 or higher to compile this.**
 
-First think you need to do is setup a virtual enviornment.
+First thing you need to do is setup a virtual environment.
 ```
  mkdir (project-name)
  cd (project-name)
@@ -32,4 +32,4 @@ Download the needed libraries:
 ```
 **Once you have the libraries, you're good to go!**
 
-Now all you have to do is use your IDE of choice, download autoViews.py and click run.
+Now all you have to do is use your IDE of choice, download autoViews.py and run it.
